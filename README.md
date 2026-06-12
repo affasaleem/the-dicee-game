@@ -96,7 +96,7 @@ Add a screenshot of the project here.
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/roll-royale.git
+git clone https://github.com/affasaleem/the-dicee-game/
 ```
 
 Open `index.html` in your browser.
@@ -109,7 +109,7 @@ Open `index.html` in your browser.
 
 Frontend Development Learning Project
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/affasaleem
 
 ---
 
